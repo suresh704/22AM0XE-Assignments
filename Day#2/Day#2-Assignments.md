@@ -4,6 +4,7 @@
 > Pls edit this table while submitting the assignments
 
 | Status         | Questions     | 
+|----------------|---------------|
 | <ul><li>- [ ] </li></ul> | [Docker Desktop] Install Docker Desktop and verify the command “docker version” |
 | <ul><li>- [ ] </li></ul> | [K8S] Enable K8S.Install Kubectl.Verify the command “kubectl version” |
 | <ul><li>- [ ] </li></ul> | [Impromptu Learning] Complete the learning (as video / pdf) about the following two topics, read about Kubernetes, and then share a screenshot along with a summary of the story |
