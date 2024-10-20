@@ -8,7 +8,7 @@
 | <ul><li>- [x] </li></ul> | [Docker Desktop] Install Docker Desktop and verify the command “docker version” |
 | <ul><li>- [x] </li></ul> | [K8S] Enable K8S.Install Kubectl.Verify the command “kubectl version” |
 | <ul><li>- [ ] </li></ul> | [Impromptu Learning] Complete the learning (as video / pdf) about the following two topics, read about Kubernetes, and then share a screenshot along with a summary of the story |
-| <ul><li>- [ ] </li></ul> | [K8s] Write a manifest for hello-world pod and deploy the same in the namespace of your registration number |
+| <ul><li>- [x] </li></ul> | [K8s] Write a manifest for hello-world pod and deploy the same in the namespace of your registration number |
 | <ul><li>- [ ] </li></ul> | [K8s] Can you deploy a Hello World application in Kubernetes, create a Deployment, expose it using a Service, and verify the output by accessing it in a browser? Please include screenshots of each step and the final browser check. |
 | <ul><li>- [ ] </li></ul> | [K8s] Can you deploy a Machine Learning application in Kubernetes, create a Deployment, expose it using a Service, and verify the output by accessing it in a browser? Please include screenshots of each step and the final browser check.  |
 | <ul><li>- [ ] </li></ul> | Commit the code to the Github Repo. The repo should be a public one. And raise a PR to this repo: https://github.com/SanthoshNC/22AM0XE-Assignments |
