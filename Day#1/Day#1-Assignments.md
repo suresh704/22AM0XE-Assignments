@@ -57,8 +57,10 @@
   - Logo: Place the logo here
   - Details: A popular streaming service offering a vast collection of movies, TV shows, and exclusive content to users worldwide.
 
-> Add your answer here!
+- JioCinema(Hoted on AWS)
+- Logo: ![image](https://github.com/user-attachments/assets/f0d32526-906b-4e72-b7d2-fcbb2942223e)
 
+- Details: JioCinema is an Indian subscription based video-on-demand and over-the-top media streaming service owned by Viacom18 a joint venture of Network18 Group and Paramount Global. It offers free advertising- and subscription-based video on demand and live streaming content.
 ***
 
 #### #7 Create a Github account with personal mail ID and fork the repo https://github.com/SanthoshNC/22AM0XE-Assignments
