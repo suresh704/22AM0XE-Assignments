@@ -24,14 +24,19 @@
 > Pls don't copy from others. Marks will be reduced for both students
 
 #### #1 [ML] Complete the learning path : https://developers.google.com/codelabs/tensorflow-1-helloworld and add the details in the Github repo
-> Add your answer here!
+![image](https://github.com/user-attachments/assets/dd24f83f-93a1-48f6-a822-f79180a1d7d7)
+![image](https://github.com/user-attachments/assets/73744ac1-01e4-48a1-9f5c-1d5550e44d16)
+
+
 > - Completion Badge
 > - Completion Screenshot	
 
 ***
 
 #### #2 Deploy the image `pranesh5264/chatbot-image:v1` (port: 7212) in k8s and share the screenshots
-> Add your answer here!
+![unnamed](https://github.com/user-attachments/assets/ab0c8695-0ac8-4cdd-a583-4ee8fcc0a616)
+![unnamed](https://github.com/user-attachments/assets/ddf47b73-cfdb-48f8-9ade-04aa06417db6)
+
 
 ***
 
@@ -45,12 +50,11 @@
 ***
 
 #### #4 Which products or applications are hosted on the following cloud platforms, and could you also provide their logos and relevant details? 
-- For example:
-- Amazon Prime (Hosted on AWS)
-  - Logo: Place the logo here
-  - Details: A popular streaming service offering a vast collection of movies, TV shows, and exclusive content to users worldwide.
+- JioCenima (Hosted on AWS)
+  - Logo: ![image](https://github.com/user-attachments/assets/ee8d809d-8bf4-4b96-9d0e-80c7fb63ea42)
 
-> Add your answer here!
+  - Details:JioCinema is an Indian subscription based video-on-demand and over-the-top media streaming service owned by Viacom18 a joint venture of Network18 Group and Paramount Global. 
+
 
 ***
 
