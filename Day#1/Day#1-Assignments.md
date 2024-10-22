@@ -7,7 +7,7 @@
 |----------------|---------------|
 | <ul><li>- [x] </li></ul> | [ML] Complete the learning path : https://developers.google.com/codelabs/tensorflow-1-helloworld and add the details in the Github repo |
 | <ul><li>- [x] </li></ul> | Deploy the image `pranesh5264/chatbot-image:v1` (port: 7212) in k8s and share the screenshots |
-| <ul><li>- [ ] </li></ul> | Provide a basic example of using Google Colab by following the given steps  |
+| <ul><li>- [x] </li></ul> | Provide a basic example of using Google Colab by following the given steps  |
 | <ul><li>- [x] </li></ul> | Which products or applications are hosted on the following cloud platforms, and could you also provide their logos and relevant details?  |
 | <ul><li>- [x] </li></ul> | Create a Github account with personal mail ID and fork the repo https://github.com/SanthoshNC/22AM0XE-Assignments  |
 | <ul><li>- [x] </li></ul> | Create a LinkedIn account with personal mail ID  |
@@ -46,6 +46,9 @@
 > - Write Python code to print "Hello, World!" in the notebook.
 > - Import the NumPy library and create a 2x2 matrix, then print it.
 > - Load a small dataset (e.g., Iris dataset) from an online source, display the first five rows, and provide a brief explanation of the dataset.
+![image](https://github.com/user-attachments/assets/d78dcc7b-7b01-4b70-88bd-311d4c09e804)
+![image](https://github.com/user-attachments/assets/33d03f76-fbdb-4de3-93c9-1953cdfbe8f0)
+
 
 ***
 
